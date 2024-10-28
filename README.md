@@ -1,4 +1,4 @@
-# Produccion-mensual-HECAM
+# Producción-mensual-HECAM
 
 El presente reporte incluye cifras mensuales de atenciones y pacientes por servicios pertenecientes al Hospital Carlos Andrade Marín para el período enero 2023 a septiembre 2024, para este reporte se deben tomar en cuenta las siguientes consideraciones:
 Atenciones: Se considera toda revisión, chequeo, interconsulta, visita que hayan recibido los pacientes por parte del personal médico, independientemente del número de veces que el paciente haya acudido al hospital. 
