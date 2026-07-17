@@ -1,0 +1,67 @@
+/* Tipografía y fondo general */
+body {
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  background-color: #f4f6f8;
+  color: #2c3e50;
+  margin: 2em;
+  line-height: 1.6;
+}
+
+/* Encabezados */
+h1, h2, h3 {
+  color: #005a9c;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.3em;
+  margin-top: 2em;
+}
+
+/* Tablas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  background-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.05);
+}
+
+th {
+  background-color: #e8eef3;
+  color: #333;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+/* Navegación interna (si decides agregarla) */
+nav {
+  margin-bottom: 2em;
+}
+
+nav a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #005a9c;
+  font-weight: bold;
+}
+
+/* Código embebido */
+code {
+  background-color: #eef;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+}
